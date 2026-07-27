@@ -61,3 +61,6 @@ git clone https://github.com/your-username/calculator.git
 
 - GitHub: https://github.com/Lohith-CSE-AIML
 - LinkedIn: https://www.linkedin.com/in/thoti-lohith/
+## Live Demo
+
+🔗 https://lohith-cse-aiml.github.io/Calculator/
